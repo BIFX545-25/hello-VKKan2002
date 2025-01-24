@@ -1,11 +1,10 @@
-Package: hello-VKKan2002
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Package: hello
+Title: Hello World
+Version: 1.0
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Venkata Krishna", "Kandalai", , "vk10@hood.edu", role = c("aut", "cre"))
+Description: The 'hello' function greets a user by name. 
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
